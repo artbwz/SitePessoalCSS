@@ -44,17 +44,46 @@
     margin-top: 0;
 }
 
-.background-image{
+.cloud-one{
+    width: 100px;
+    position: absolute;
+    left: 200px;
+}
+
+.cloud-two{
+    width: 100px;
+    position: absolute;
+    left: 500px;
+}
+
+.mountain{
     width: 80%;
+}
+
+.logo-lol{
+    width:250px;
+    border-radius: 50%;
     position: relative;
-    z-index: -1;
-    margin-left: 0;
-    
+    left: 520px;
+    margin-bottom: 0;
+}
+
+.logo-vava{
+    width:400px;
+    border-radius: 50%;
+    position: relative;
+    left: 450px;
+    margin-bottom: 0;
+}
+
+.description{
+    position: relative;
+    left: 540px;
 }
 
 
 body{
-    background-color:rgb(57, 151, 234);
+    background-color:white;
 }
 
 
